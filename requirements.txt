@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-anthropic
+langchain-community
+chromadb
+sentence-transformers
+tavily-python
+python-dotenv
+scikit-learn
